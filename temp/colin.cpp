@@ -79,7 +79,6 @@ ll ans = 0;
 
 
 void solve(int tc = 0) {
-	
 }
  
 int main() {

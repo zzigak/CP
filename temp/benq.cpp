@@ -265,3 +265,8 @@ int main() {
 	* WRITE STUFF DOWN
 	* DON'T GET STUCK ON ONE APPROACH
 */
+
+
+void solve(){
+  
+}
